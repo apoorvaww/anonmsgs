@@ -1,3 +1,7 @@
+AnonMsgs is a nextjs project which I followed along with Hitesh Choudhary sir on his youtube channel chai aur code. So thankful for him and the quality content which he has been blessing us with.
+This is still bugged and I still have some work which I will keep adding into it.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
