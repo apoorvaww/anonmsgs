@@ -1,4 +1,4 @@
-AnonMsgs is a nextjs project which I followed along with Hitesh Choudhary sir on his youtube channel chai aur code. So thankful for him and the quality content which he has been blessing us with.
+*** AnonMsgs is a nextjs project which I followed along with Hitesh Choudhary sir on his youtube channel chai aur code. So thankful for him and the quality content which he has been blessing us with. ***
 This is still bugged and I still have some work which I will keep adding into it.
 
 
